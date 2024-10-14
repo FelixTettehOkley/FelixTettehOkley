@@ -1,0 +1,27 @@
+Vulnerability Assessment and Penetration Testing (VAPT) using OpenVAS
+Project Summary: Recently, I conducted a Vulnerability Assessment and Penetration Testing (VAPT) on a network using OpenVAS. This assessment identified several critical and medium-level vulnerabilities that could impact the security posture of the network.
+
+Key Vulnerabilities Discovered:
+Weak Key Exchange (KEX) Algorithms Supported (SSH) (Severity: Medium, 5.3):
+The use of outdated key exchange algorithms poses a risk of compromising secure communication channels.
+
+Weak Host Key Algorithms (SSH) (Severity: Medium, 5.3):
+The server supports weak host key algorithms, which could be exploited to intercept SSH connections.
+
+FTP Unencrypted Cleartext Login (Severity: Medium, 4.8):
+FTP allows unencrypted logins, potentially exposing sensitive information during transmission.
+
+Telnet Unencrypted Cleartext Login (Severity: Medium, 4.8):
+Similar to FTP, Telnet is configured for unencrypted logins, which increases the risk of credential theft.
+
+Weak Encryption Algorithm(s) Supported (SSH) (Severity: Medium, 4.3):
+The server is using weak encryption algorithms that could be vulnerable to decryption attacks.
+
+TCP and ICMP Timestamps Information Disclosure (Severity: Low, 2.6 & 2.1):
+TCP and ICMP timestamps can be exploited to gather information about the network, potentially aiding in timing attacks.
+
+These vulnerabilities highlight the need for enhanced encryption standards, secure protocol configurations, and the elimination of legacy systems that support insecure practices.
+
+Tools Used:
+OpenVAS: A leading open-source tool for comprehensive vulnerability scanning and reporting.
+Skills Gained: Network Security, Vulnerability Management, Encryption Standards, Secure Communication Protocols
