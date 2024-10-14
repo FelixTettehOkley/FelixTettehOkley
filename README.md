@@ -1,7 +1,3 @@
-Based on the details in your LinkedIn profile PDF, here’s a structured **README** for your GitHub profile:
-
----
-
 # 👋 Hello, I'm Felix Tetteh Okley
 
 ## 🌐 IT Solutions Architect | IT Support Expert |  Cybersecurity Professional | PenTester | Cyber Crime Investigator | Cloud Computing Professional 
@@ -15,11 +11,22 @@ Welcome to my GitHub profile! I am an experienced IT professional with a passion
 I currently serve as an **IT Manager** at a reputable company, where I lead the development and management of IT operations, ensuring robust data security and efficient system performance. I am committed to aligning technology with business objectives, focusing on operational efficiency and cybersecurity compliance.
 
 Here’s a bit about me:
-- 🔧 **Skills**: Google Workspace, Cybersecurity Incident Response, IT Management, Network Security, Incident Management
+- 🔧 **Skills**: Google Workspace, IT Support, Cybersecurity Incident Response, IT Management, Network Security, System Administration
 - 🏆 **Certifications**: 
-  - Master Course in PMP - Project Management Professional
-  - Google Cloud Security Vulnerability Mitigation
-  - Introduction to Cybersecurity
+  - CompTIA Security+ - CompTIA
+  - Microsoft Certified: Security Operations Analyst Associate - Microsoft
+  - Networking Basics - Cisco 
+  - Ethical Hacker- Cisco
+  - CyberOps Associate - Cisco
+  - Certified in Cybersecurity (CC) - ISC2
+  - Management Information Systems - Alison Empower 
+  - CPITM - Certified Professional IT Manager - Udemy
+  - Career Essentials in System Administration - Microsoft and LinkedIn
+  - Connect and Protect: Networks and Network Security - Google
+  - Master Course in PMP - Project Management Professional- Udemy
+  - Maltego Cyber Crime Investigation Advanced - Maltego
+  - Mitigating Security Vulnerabilities on Google Cloud - Google
+  - Monitor and Log with Google Cloud Observability - Google
 - 💼 **Experience**:
   - **IT Manager** at Really Great Tech (July 2024 - Present)
   - **IT Support Lead** at CITSYS Ltd (September 2020 - June 2024)
