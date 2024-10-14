@@ -1,0 +1,32 @@
+Web Vulnerability Assessment with OWASP ZAP
+Project Summary: In this project, I conducted a comprehensive web vulnerability assessment using the OWASP Zed Attack Proxy (ZAP). The analysis uncovered several critical security issues that require immediate attention to safeguard web applications and user data.
+
+Key Findings:
+Absence of Anti-CSRF Tokens:
+The application is vulnerable to Cross-Site Request Forgery (CSRF) attacks due to the absence of anti-CSRF tokens, leaving it open to unauthorized actions performed on behalf of legitimate users.
+
+Content Security Policy (CSP) Header Not Set:
+The lack of a CSP header exposes the site to Cross-Site Scripting (XSS) attacks, which can allow attackers to inject malicious scripts into web pages and compromise user interactions.
+
+Insecure HTTP to HTTPS Transition:
+Issues were identified in the transition from HTTP to HTTPS, posing a risk of sensitive data exposure during transmission, particularly through man-in-the-middle attacks.
+
+Missing Anti-Clickjacking Header:
+The absence of the X-Frame-Options header leaves the application vulnerable to clickjacking attacks, where users can be tricked into interacting with hidden elements on the page.
+
+Outdated JavaScript Library:
+A JavaScript library in use was found to have known vulnerabilities, which could be exploited to execute unauthorized code or gain access to sensitive information on the client-side.
+
+Why Web Server Security Matters:
+In today's digital landscape, web servers are critical to business operations, handling everything from customer data to transactions. Any vulnerability can lead to:
+
+Data Breaches
+-Financial Loss
+-Compliance Violations
+-Operational Downtime
+
+Call to Action:
+Proactively securing web servers is essential to protecting your organization’s data and maintaining user trust. Regular vulnerability assessments using tools like OWASP ZAP, updating software, and following best practices for security are crucial steps in reducing risks. Web security is an ongoing process that requires constant vigilance and timely responses to potential threats.
+
+Tools Used: OWASP ZAP
+Skills Gained: Web Application Security, Vulnerability Assessment, Cybersecurity Best Practices
