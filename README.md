@@ -2,9 +2,9 @@ Based on the details in your LinkedIn profile PDF, here’s a structured **READM
 
 ---
 
-# 👋 Hello, I'm Felix Okley
+# 👋 Hello, I'm Felix Tetteh Okley
 
-## 🌐 IT Solutions Architect | Cybersecurity Professional | PenTester | Cyber Crime Investigator
+## 🌐 IT Solutions Architect | IT Support Expert |  Cybersecurity Professional | PenTester | Cyber Crime Investigator | Cloud Computing Professional 
 
 Welcome to my GitHub profile! I am an experienced IT professional with a passion for solving complex problems in system management, network security, and business continuity. I have a strong background in ensuring 99.9% system uptime, securing critical data, and delivering optimized technology solutions to meet organizational goals.
 
@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I am an experienced IT professional with a passion
 
 ### 📜 **Summary**
 
-I currently serve as an **IT Manager** at Really Great Tech, where I lead the development and management of IT operations, ensuring robust data security and efficient system performance. I am committed to aligning technology with business objectives, focusing on operational efficiency and cybersecurity compliance.
+I currently serve as an **IT Manager** at a reputable company, where I lead the development and management of IT operations, ensuring robust data security and efficient system performance. I am committed to aligning technology with business objectives, focusing on operational efficiency and cybersecurity compliance.
 
 Here’s a bit about me:
 - 🔧 **Skills**: Google Workspace, Cybersecurity Incident Response, IT Management, Network Security, Incident Management
