@@ -1,0 +1,89 @@
+1. Foundations of Cybersecurity: Overview and Best Practices
+Description:
+Gained a foundational understanding of the core principles of cybersecurity through this project. This involved exploring the CIA triad (Confidentiality, Integrity, Availability), analyzing common attack vectors like phishing and malware, and reviewing best practices to prevent such attacks. Focused on how cybersecurity frameworks guide organizations to protect their digital assets.
+
+Key Learning Areas:
+Introduction to the CIA triad
+Security frameworks and compliance (NIST, ISO)
+Common cyber threats (phishing, malware)
+Basic preventive measures (password hygiene, encryption)
+
+Skills:
+Foundational Cybersecurity Knowledge
+Threat Identification
+Security Best Practices
+
+2. Play It Safe: Managing Security Risks
+Description:
+Developed a risk management plan to address and mitigate cybersecurity risks in an organizational setting. This project involved identifying potential risks to digital infrastructure, categorizing them based on their impact, and proposing controls. Used the Risk Management Framework (RMF) to structure the approach and ensure a thorough assessment.
+
+Key Learning Areas:
+Risk Identification and Analysis
+Risk Assessment Matrix
+Mitigation Strategies
+Use of RMF (Risk Management Framework)
+
+Skills:
+Risk Management
+Strategic Planning
+Risk Mitigation Tactics
+
+3. Connect and Protect: Networks and Network Security
+Description:
+In this project, I configured a secure network infrastructure, focusing on network design, firewalls, and VPNs to protect against unauthorized access. Conducted vulnerability assessments using tools like Wireshark and Nmap to ensure the network is free of major security flaws. Also implemented network segmentation to enhance security.
+
+Key Learning Areas:
+Network Security Principles
+VPN Setup and Configuration
+Firewall Configuration
+Vulnerability Scanning with Wireshark/Nmap
+
+Skills:
+Network Security
+Vulnerability Scanning
+Network Configuration and Hardening
+
+4. Tools of the Trade: Linux and SQL for Cybersecurity
+Description:
+In this module, I utilized Linux command-line tools and SQL for cybersecurity tasks such as system monitoring, log analysis, and detecting security anomalies. Wrote scripts to automate routine security checks and learned how SQL databases can be exploited if left unprotected, thereby emphasizing the importance of secure database practices.
+
+Key Learning Areas:
+Linux Command-Line for Security
+Bash Scripting for Automation
+SQL Injection Prevention
+Log Analysis
+
+Skills:
+Linux Administration
+SQL for Cybersecurity
+Bash Scripting
+
+5. Assets, Threats, and Vulnerabilities: Identifying Weaknesses
+Description:
+Led a vulnerability assessment to identify threats and weaknesses in an organizational IT infrastructure. This project utilized OpenVAS to scan systems and applications, producing a comprehensive report of the vulnerabilities, risk levels, and remediation suggestions. Special focus on the OWASP Top 10 vulnerabilities to help protect web applications.
+
+Key Learning Areas:
+Vulnerability Management
+OWASP Top 10
+Threat Identification
+Remediation Techniques
+
+Skills:
+Vulnerability Scanning
+Threat Analysis
+Risk Prioritization
+
+6. Sound the Alarm: Detection and Response
+Description:
+Developed an Incident Response Plan (IRP) to handle security breaches within an organization, using the NIST Incident Response Lifecycle. This project involved building a structured response process for identifying, containing, and recovering from security incidents. Implemented real-time monitoring tools and intrusion detection systems (IDS) to detect and prevent intrusions.
+
+Key Learning Areas:
+Incident Response Process
+Containment and Recovery
+Use of IDS/IPS Tools
+Real-Time Threat Monitoring
+
+Skills:
+Incident Response
+Intrusion Detection
+Security Monitoring
