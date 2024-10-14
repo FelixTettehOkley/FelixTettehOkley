@@ -1,3 +1,4 @@
+**PROJECT 1**
 **Web Vulnerability Assessment with OWASP ZAP**
 Project Summary: In this project, I conducted a comprehensive web vulnerability assessment using the OWASP Zed Attack Proxy (ZAP). The analysis uncovered several critical security issues that require immediate attention to safeguard web applications and user data.
 
@@ -31,3 +32,16 @@ Proactively securing web servers is essential to protecting your organization’
 **Tools Used: OWASP ZAP**
 Skills Gained: Web Application Security, Vulnerability Assessment, Cybersecurity Best Practices
 
+
+**Project 2**
+**Investigating a Suspicious Email with Maltego**
+Project Summary: In a recent investigation, I utilized Maltego, a powerful data mining and visualization tool, to uncover the identity behind a suspicious email address. By leveraging Maltego’s advanced capabilities, I traced digital connections and unearthed critical insights into the origins and activities linked to the email.
+
+**Key Achievements:**
+Digital Footprint Analysis: Mapped out the digital footprint of the individual behind the email, identifying associated social media profiles and online activities.
+Relationship Mapping: Visualized relationships between the email address and other entities, revealing connections to various online accounts.
+Investigative Research: Used Maltego's investigative tools to gain valuable intelligence, reinforcing the importance of data visualization in cybersecurity and fraud detection.
+This project highlights the effectiveness of Maltego for digital forensics, security investigations, and fraud detection. I look forward to applying these techniques to further enhance digital security and investigative practices!
+
+**Tools Used: Maltego**
+Skills Gained: Digital Forensics, Cybersecurity, Investigative Research, Data Visualization
